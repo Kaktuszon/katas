@@ -1,3 +1,7 @@
+/*
+ * URL - https://www.codewars.com/kata/5513795bd3fafb56c200049e
+*/
+
 #include <vector>
 
 std::vector<int> countBy(int x, int n) {
